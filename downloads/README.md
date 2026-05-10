@@ -4,6 +4,7 @@
 - [Hiddify-Android-arm64](./Hiddify-Android-arm64)
 - [SFA-1.14.0-alpha.21-arm64-v8a](./SFA-1.14.0-alpha.21-arm64-v8a)
 - [YumeBox-arm64-v8a-release](./YumeBox-arm64-v8a-release)
+- [anyportal-android-api28-arm64-v8a](./anyportal-android-api28-arm64-v8a)
 - [flyclash-0.2.1.4-pbSmart-arm64-v8a-release](./flyclash-0.2.1.4-pbSmart-arm64-v8a-release)
 - [v2rayNG_2.1.7_arm64-v8a](./v2rayNG_2.1.7_arm64-v8a)
 
