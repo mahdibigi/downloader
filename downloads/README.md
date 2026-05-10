@@ -9,6 +9,7 @@
 - [clashmi_1.0.22.802_android_arm64-v8a](./clashmi_1.0.22.802_android_arm64-v8a)
 - [flyclash-0.2.1.4-pbSmart-arm64-v8a-release](./flyclash-0.2.1.4-pbSmart-arm64-v8a-release)
 - [v2rayNG_2.1.7_arm64-v8a](./v2rayNG_2.1.7_arm64-v8a)
+- [v4freedom](./v4freedom)
 
 ---
 
